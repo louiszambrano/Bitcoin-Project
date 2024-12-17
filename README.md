@@ -13,4 +13,4 @@ def bitcoinToUSD(bitcoin_amount, bitcoin_value_usd):
 Once you've written the bitcoinToUSD function, use it to calculate the value of your Bitcoin in USD, and then create an if statement to determine if the value falls below $30,000; if it does, output a message to alert you (via a print statement).
 
 
-***DISCLAIMER THIS IS NOT MY OWN PROJECT I AM RECREATING A PROJECT I FOUND ON TRYHACKME.COM***
+***DISCLAIMER THIS IS NOT MY OWN PROJECT I AM RECREATING A PROJECT I WAS ASSIGNED ON TRYHACKME.COM***
