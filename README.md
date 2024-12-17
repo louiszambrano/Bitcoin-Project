@@ -1,6 +1,12 @@
 # Bitcoin-Project
 In this project, you'll create a program that that tells you when the value of your Bitcoin falls below $30,000.
 
+You will need to:
+    - Create a function to convert Bitcoin to USD
+    - If your Bitcoin falls below $30,000, print a message.
+
+You can assume that 1 Bitcoin is worth $40,000
+
 The Senario:
 You've invested in Bitcoin and want to write a program that tells you when the value of Bitcoin falls below a particular value in dollars.
 
